@@ -1,0 +1,28 @@
+.pozadí {
+        background-image: image-set();
+        height: 500px;
+    }
+
+.slova {
+    margin-left: 100px;
+    display: flex;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 70px;
+    background-color: antiquewhite;
+}
+
+.skupina {
+    margin-left: 500px;
+}
+
+.trenér {
+    margin-left: 250px;
+}
+
+.utext {
+  flex: 50px;
+}

@@ -1,0 +1,25 @@
+id_zamestnance,jmeno,datum,odpracovane_hodiny
+E001,Petr Svoboda,2026-01-06,9.0
+E002,Jana Nováková,2026-01-06,8.5
+E003,Karel Marek,2026-01-06,7.5
+E004,Lucie Horáková,2026-01-06,8.0
+E001,Petr Svoboda,2026-01-07,8.5
+E002,Jana Nováková,2026-01-07,0.0
+E003,Karel Marek,2026-01-07,abc
+E005,Tomáš Blaha,2026-01-07,
+E001,Petr Novák,2026-01-08,7.5
+E002,Jana Nováková,2026-01-08,9.0
+E004,Lucie Horáková,2026-01-07,7.5
+E003,Karel Marek,2026-01-08,8.0
+E005,,2026-01-08,6.5
+E006,Eva Procházková,2026-01-06,7.0
+E006,Eva Procházková,2026-01-07,8.0
+E007,Martin Dvořák,2026-01-06,-3.0
+E007,Martin Dvořák,2026-01-07,8.0
+E008,Anna Červenková,2026-01-06,chyba
+E001,Petr Svoboda,2026-01-09,8.0
+E004,Lucie Horáková,2026-01-08,9.0
+E002,Jana Nováková,2026-01-09,7.5
+E003,Karel Marek,2026-01-09,6.5
+E007,Martin Dvořák,2026-01-08,7.0
+E008,Anna Červenková,2026-01-07,6.0

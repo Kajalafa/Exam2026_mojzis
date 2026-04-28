@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" width="64" height="64">
+  <!-- Person -->
+  <circle cx="30" cy="22" r="11" fill="#2e7d32"/>
+  <path d="M14 74 Q14 44 30 44 Q46 44 46 74 Z" fill="#2e7d32"/>
+  <!-- Star badge -->
+  <polygon points="62,8 65,18 76,18 67,24 70,35 62,29 54,35 57,24 48,18 59,18" fill="#FFD700"/>
+</svg>
