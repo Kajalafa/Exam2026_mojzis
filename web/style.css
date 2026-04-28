@@ -6,6 +6,7 @@
 .slova {
     margin-left: 100px;
     display: flex;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .navbar {
@@ -15,14 +16,21 @@
     background-color: antiquewhite;
 }
 
+.posilovna {
+    margin-left: 140px;
+}
+
 .skupina {
-    margin-left: 500px;
+    margin-left: 300px;
 }
 
 .trenér {
-    margin-left: 250px;
+    margin-left: 150px;
 }
 
-.utext {
-  flex: 50px;
-}
+.uvod {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    display: flex;
+    align-content: center;
+    }
