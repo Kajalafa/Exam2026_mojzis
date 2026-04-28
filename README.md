@@ -1,0 +1,1 @@
+# Exam2026_mojzis
